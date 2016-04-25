@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         int aa;
         int bb;
+        int cc;
     }
 
     @Override
