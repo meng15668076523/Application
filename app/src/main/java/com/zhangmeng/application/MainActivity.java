@@ -30,10 +30,6 @@ public class MainActivity extends AppCompatActivity {
         int aa;
         int bb;
         int cc;
-        int ee;
-        int ff;
-        int hh;
-        int oo;
     }
 
     @Override
